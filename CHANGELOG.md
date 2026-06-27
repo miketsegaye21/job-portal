@@ -1,1 +1,2 @@
 - Initial project structure setup
+- Add configuration files
