@@ -1,2 +1,3 @@
 - Initial project structure setup
 - Add configuration files
+- Setup backend skeleton
