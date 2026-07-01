@@ -4,3 +4,4 @@
 - Setup frontend skeleton
 - Add database models
 - Implement authentication logic
+- Add user routes
