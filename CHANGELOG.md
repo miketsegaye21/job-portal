@@ -3,3 +3,4 @@
 - Setup backend skeleton
 - Setup frontend skeleton
 - Add database models
+- Implement authentication logic
