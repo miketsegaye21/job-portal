@@ -5,3 +5,4 @@
 - Add database models
 - Implement authentication logic
 - Add user routes
+- Design frontend layout
