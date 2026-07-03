@@ -6,3 +6,4 @@
 - Implement authentication logic
 - Add user routes
 - Design frontend layout
+- Implement login page
