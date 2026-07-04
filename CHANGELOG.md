@@ -7,3 +7,4 @@
 - Add user routes
 - Design frontend layout
 - Implement login page
+- Implement registration page
