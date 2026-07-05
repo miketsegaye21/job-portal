@@ -8,3 +8,4 @@
 - Design frontend layout
 - Implement login page
 - Implement registration page
+- Connect frontend to backend
