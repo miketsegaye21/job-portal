@@ -9,3 +9,4 @@
 - Implement login page
 - Implement registration page
 - Connect frontend to backend
+- Add job listing API
