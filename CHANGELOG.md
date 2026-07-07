@@ -11,3 +11,4 @@
 - Connect frontend to backend
 - Add job listing API
 - Display job listings on frontend
+- Implement job application feature
