@@ -12,3 +12,4 @@
 - Add job listing API
 - Display job listings on frontend
 - Implement job application feature
+- Final polish and bug fixes
